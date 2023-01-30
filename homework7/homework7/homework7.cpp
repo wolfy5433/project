@@ -42,7 +42,7 @@ int main()
 	}
 	cout << endl;
 	delete a, b, c;
-
+	cout << "ABSD" << endl;
 	system("pause");
 	return 0;
 }
