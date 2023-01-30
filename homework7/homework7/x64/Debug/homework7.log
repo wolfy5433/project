@@ -1,0 +1,7 @@
+﻿  homework7.cpp
+C:\Users\Илья\.ssh\project\homework7\homework7\homework7.cpp(8,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Илья\.ssh\project\homework7\homework7\homework7.cpp(16,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Илья\.ssh\project\homework7\homework7\homework7.cpp(23,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Илья\.ssh\project\homework7\homework7\homework7.cpp(30,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Илья\.ssh\project\homework7\homework7\homework7.cpp(31,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  homework7.vcxproj -> C:\Users\Илья\.ssh\project\homework7\x64\Debug\homework7.exe

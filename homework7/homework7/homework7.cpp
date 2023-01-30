@@ -42,5 +42,7 @@ int main()
 	}
 	cout << endl;
 	delete a, b, c;
+
+	system("pause");
 	return 0;
 }
