@@ -42,6 +42,7 @@ int main()
 	}
 	cout << endl;
 	delete a, b, c;
-	cout < "321" << endl;
+	cout << "321" << endl;
+	cout << "jyt" << endl;
 	return 0;
 }
