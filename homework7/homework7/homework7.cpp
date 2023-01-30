@@ -42,7 +42,6 @@ int main()
 	}
 	cout << endl;
 	delete a, b, c;
-	cout << "ABSD" << endl;
-	system("pause");
+	cout < "321" << endl;
 	return 0;
 }
